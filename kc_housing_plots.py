@@ -410,20 +410,6 @@ plt.title('Correlation Matrix for Price, Zip Code, and Lot Size')
 plt.show()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
